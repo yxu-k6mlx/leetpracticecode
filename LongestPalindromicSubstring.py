@@ -4,7 +4,10 @@ class Solution:
         return 
     
     def longestPalindrome(self, s: str) -> str:
-        pass 
+        palidrome = s
+        
+
+        return palidrome
     
     def left(self): 
         pass 
