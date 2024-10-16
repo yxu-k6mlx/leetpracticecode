@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ML/Desktop/github-site/leetpracticecode/NET/MyApp/MyApp.csproj": {}
+    "C:\\Users\\xuyan\\OneDrive\\Documents\\GitHub\\leetpracticecode\\NET\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "/Users/ML/Desktop/github-site/leetpracticecode/NET/MyApp/MyApp.csproj": {
+    "C:\\Users\\xuyan\\OneDrive\\Documents\\GitHub\\leetpracticecode\\NET\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ML/Desktop/github-site/leetpracticecode/NET/MyApp/MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\xuyan\\OneDrive\\Documents\\GitHub\\leetpracticecode\\NET\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/Users/ML/Desktop/github-site/leetpracticecode/NET/MyApp/MyApp.csproj",
-        "packagesPath": "/Users/ML/.nuget/packages/",
-        "outputPath": "/Users/ML/Desktop/github-site/leetpracticecode/NET/MyApp/obj/",
+        "projectPath": "C:\\Users\\xuyan\\OneDrive\\Documents\\GitHub\\leetpracticecode\\NET\\MyApp\\MyApp.csproj",
+        "packagesPath": "C:\\Users\\xuyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xuyan\\OneDrive\\Documents\\GitHub\\leetpracticecode\\NET\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ML/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\xuyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
